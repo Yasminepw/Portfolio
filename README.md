@@ -2,10 +2,12 @@
   <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
 </p>
 <h1 align="center">
+  
   yasminewatkins.com
 </h1>
 <p align="center">
   Built with React.js leveraging Material UI.
+
 </p>
 
 ## 🛠 set-up

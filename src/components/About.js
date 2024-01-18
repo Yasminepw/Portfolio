@@ -19,10 +19,11 @@ class About extends React.Component {
   render() {
     const one = (
       <p>
+        
         I am currently a Software Engineer at
-        <a href="https://www.elsevier.com"> Elsevier</a>, working on  <a href="https://www.osmosis.org"> Osmosis</a>. Soon, I will be undertaking a
+        <a href="https://www.elsevier.com"> Elsevier</a>, working on  <a href="https://www.osmosis.org"> Osmosis</a>. I am also undertaking a
         part-time Master's of Science in Computer Science at the{" "}
-        <a href="https://www.gatech.edu/about">Georgia Institute of Technology</a>.
+        <a href="https://www.gatech.edu/about">Georgia Institute of Technology</a> with a specialization in Interactive Intelligence.
       </p>
     );
     const two = (
